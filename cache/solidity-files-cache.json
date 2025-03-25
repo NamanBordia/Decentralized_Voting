@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Naman\\Downloads\\RVU\\SEM4\\Blockchain2\\Full_hardhat_workflow_assignment\\contracts\\voting.sol": {
+      "lastModificationDate": 1742894835968,
+      "contentHash": "faf791984c32c097d87d0c19a0373be1",
+      "sourceName": "contracts/voting.sol",
+      "solcConfig": {
+        "version": "0.8.0",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "voting"
+      ]
+    }
+  }
+}
